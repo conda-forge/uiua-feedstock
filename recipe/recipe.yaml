@@ -1,5 +1,5 @@
 context:
-  version: "0.14.1"
+  version: "0.15.0"
 
 package:
   name: uiua
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/uiua-lang/uiua/archive/${{ version }}.tar.gz
-  sha256: e25ab5b6fe69ad6f421c085b7022377674f7ea5fdc0aa5553be7bf6985bcf42d
+  sha256: f108a7d9637d35bc63caf708e2cc59a9d18068602008e490c1bbe88df3c5746e
 
 build:
   number: 0
